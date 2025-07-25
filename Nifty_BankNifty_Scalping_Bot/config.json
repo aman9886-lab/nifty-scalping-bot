@@ -1,0 +1,10 @@
+
+{
+    "api_key": "your_api_key_here",
+    "api_secret": "your_api_secret_here",
+    "access_token": "your_access_token_here",
+    "mode": "paper", 
+    "lot_size": 50,
+    "max_trades_per_day": 5,
+    "daily_loss_limit": 2000
+}
